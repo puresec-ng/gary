@@ -2,5 +2,11 @@
     "name": "GARY",
     "symbol": "$GARY",
     "description": "",
-    "image": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg"
+    "image": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg",
+    "extensions": {
+        "coingeckoId": "gary",
+        "discord": "https://discord.gg/garyclub",
+        "twitter": "https://twitter.com/GaryCoinOnSol",
+        "website": "https://gary.club/exchange"
+    }
   }
