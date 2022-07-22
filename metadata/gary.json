@@ -4,11 +4,13 @@
     "description": "",
     "image": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg",
     "coingeckoId": "gary",
+    "CoinGeckoID": "gary",
     "website": "https://gary.club/exchange",
     "twitter": "https://twitter.com/GaryCoinOnSol",
     "discord": "https://discord.gg/garyclub",
     "extensions": {
         "coingeckoId": "gary",
+        "CoinGeckoID": "gary",
         "discord": "https://discord.gg/garyclub",
         "twitter": "https://twitter.com/GaryCoinOnSol",
         "website": "https://gary.club/exchange"
