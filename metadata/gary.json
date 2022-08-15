@@ -10,6 +10,7 @@
     "discord": "https://discord.gg/garyclub",
     "extensions": {
         "coingeckoId": "gary",
+        "coingeckoID": "gary",
         "CoinGeckoID": "gary",
         "discord": "https://discord.gg/garyclub",
         "twitter": "https://twitter.com/GaryCoinOnSol",
