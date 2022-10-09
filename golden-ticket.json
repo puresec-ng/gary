@@ -1,0 +1,15 @@
+{
+  "name": "Gary Club Golden Ticket ",
+  "symbol": "GCGT",
+  "description": "A golden ticket to Gary Club with exclusive lifelong perks!",
+  "image": "https://raw.githubusercontent.com/puresec-ng/gary/main/golden_ticket.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/puresec-ng/gary/main/golden_ticket.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
