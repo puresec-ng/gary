@@ -1,0 +1,15 @@
+{
+  "name": "Gary Club Stacker ",
+  "symbol": "GCST",
+  "description": "Exclusive membership into the Stacker Club",
+  "image": "https://raw.githubusercontent.com/puresec-ng/gary/main/gary-stacker.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/puresec-ng/gary/main/gary-stacker.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
